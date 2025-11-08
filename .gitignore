@@ -1,0 +1,4 @@
+/file_explorer
+*.o
+*.exe
+.vscode/
