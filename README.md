@@ -1,6 +1,6 @@
 # 🗂 File Explorer – Linux Capstone Project (C++)
 
-### 💡 Overview
+###  Overview
 
 The _File Explorer Capstone Project_ is a Linux-based, terminal-driven file management system developed using _C++17_.  
 It replicates the functionality of a Linux shell — allowing users to _navigate, **create, **move, **copy, and **analyze files and directories_ through command-line commands.
@@ -9,13 +9,13 @@ Built and tested on _Ubuntu (via WSL2)_ using _VS Code, this project demonstrate
 
 ---
 
-## 🧠 Objective
+##  Objective
 
 To design and implement a _simple command-line File Explorer_ that performs fundamental file and directory operations in Linux — while reinforcing system-level programming concepts in C++.
 
 ---
 
-## ⚙ Technologies Used
+##  Technologies Used
 
 | Tool / Technology    | Purpose                           |
 | -------------------- | --------------------------------- |
@@ -28,9 +28,9 @@ To design and implement a _simple command-line File Explorer_ that performs fund
 
 ---
 
-## 🗓 Day-wise Progress
+ Day-wise Progress
 
-### 🟩 _Day 1 – Basic Setup & Commands_
+  _Day 1 – Basic Setup & Commands_
 
 _Implemented Commands:_
 
@@ -46,7 +46,7 @@ _Highlights:_
 
 ---
 
-### 🟨 _Day 2 – Directory Navigation & File Creation_
+ _Day 2 – Directory Navigation & File Creation_
 
 _Implemented Commands:_
 
@@ -62,7 +62,7 @@ _Highlights:_
 
 ---
 
-### 🟦 _Day 3 – File Manipulation & Information Retrieval_
+ _Day 3 – File Manipulation & Information Retrieval_
 
 _Implemented Commands:_
 
@@ -79,7 +79,7 @@ _Highlights:_
 
 ---
 
-### 🟪 _Day 4 – Search, Tree & Help_
+ _Day 4 – Search, Tree & Help_
 
 _Implemented Commands:_
 
@@ -95,7 +95,7 @@ _Highlights:_
 
 ---
 
-### 🟥 _Day 5 – History, Clear & Exit Confirmation_
+ _Day 5 – History, Clear & Exit Confirmation_
 
 _Implemented Commands:_
 
@@ -120,7 +120,7 @@ _Example config.txt:_
 
 ---
 
-## 📸 Project Screenshots
+ Project Screenshots
 
 |   Day   | Description                                           | Screenshot                     |
 | :-----: | :---------------------------------------------------- | :----------------------------- |
@@ -131,8 +131,7 @@ _Example config.txt:_
 | _Day 5_ | Final version – chmod,config.txt,history, clear, exit | ![Day 5](Screenshots/Day5.png) |
 
 ---
-
-## 🧩 Project Structure
+ Project Structure
 
 ```
 file-explorer-capstone/
@@ -170,9 +169,9 @@ file-explorer-capstone/
 
 ---
 
-## 💻 Build & Run Instructions
+ Build & Run Instructions
 
-### 🔧 Build
+ Build
 
 bash
 make
@@ -182,14 +181,14 @@ make
 bash
 ./file_explorer
 
-### 🧹 Clean
+ Clean
 
 bash
 make clean
 
 ---
 
-## 🧪 Example Session
+ Example Session
 
 bash
 
@@ -207,14 +206,14 @@ exit
 
 ---
 
-## 👨‍💻 Author
+ Author
 
 _Rahul Mohanty_  
 🌐 [GitHub Profile](https://github.com/RAHUL-MOHANTY)
 
 ---
 
-## 🏁 Conclusion
+ Conclusion
 
 This project demonstrates a practical understanding of:
 
@@ -222,5 +221,5 @@ This project demonstrates a practical understanding of:
 - Command-line interface development
 - Modern C++17 features and STL
 - Structured software design and documentation
-
-💡 Capstone Project successfully implemented from Day 1 to Day 5 — fully functional and ready for demonstration!
+  
+ Capstone Project successfully implemented from Day 1 to Day 5 — fully functional and ready for demonstration!
