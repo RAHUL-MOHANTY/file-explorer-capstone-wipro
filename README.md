@@ -1,4 +1,4 @@
-# 🗂 File Explorer – Linux Capstone Project (C++)
+ File Explorer – Linux Capstone Project (C++)
 
 ###  Overview
 
