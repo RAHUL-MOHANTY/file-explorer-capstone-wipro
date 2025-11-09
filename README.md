@@ -125,10 +125,10 @@ _Example config.txt:_
 |   Day   | Description                                           | Screenshot                     |
 | :-----: | :---------------------------------------------------- | :----------------------------- |
 | _Day 1_ | Basic setup                                           | ![Day 1](Screenshots/Day1.png) |
-| _Day 2_ | Navigation – ls,pwd,cd                                | ![Day 2](Screenshots/DAY2.png) |
-| _Day 3_ | File management – cp, mv, rm, info,mkdir,touch        | ![Day 3](Screenshots/DAY3.png) |
-| _Day 4_ | Search & info – search & info                         | ![Day 4](Screenshots/DAY4.png) |
-| _Day 5_ | Final version – chmod,config.txt,history, clear, exit | ![Day 5](Screenshots/DAY5.png) |
+| _Day 2_ | Navigation – ls,pwd,cd                                | ![Day 2](Screenshots/Day2.png) |
+| _Day 3_ | File management – cp, mv, rm, info,mkdir,touch        | ![Day 3](Screenshots/Day3.png) |
+| _Day 4_ | Search & info – search & info                         | ![Day 4](Screenshots/Day4.png) |
+| _Day 5_ | Final version – chmod,config.txt,history, clear, exit | ![Day 5](Screenshots/Day5.png) |
 
 ---
 
