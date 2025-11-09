@@ -176,7 +176,7 @@ file-explorer-capstone/
 bash
 make
 
-### ▶ Run
+ Run
 
 bash
 ./file_explorer
